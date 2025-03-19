@@ -34,5 +34,5 @@ I am a passionate web developer with a strong foundation in both front-end and b
 
 ## Contact
 
-Feel free to connect with me! [Your LinkedIn Profile Link] | [Your GitHub Profile Link]fact: ...
+Feel free to connect with me! [linkedin.com/in/rahul-dey-8aa454281] | [https://github.com/Rahuldeydeveloper]fact: ...
 -->
