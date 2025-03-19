@@ -1,16 +1,38 @@
-## Hi there 👋
+# My Web Development Skills
 
-<!--
-**Rahuldeydeveloper/Rahuldeydeveloper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+This README outlines my proficiency in various web development technologies.
 
-Here are some ideas to get you started:
+## Front-End Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+* **HTML5:** Building semantic and accessible web structures.
+* **CSS3:** Styling and layout design for modern web applications.
+* **JavaScript (ES6+):** Implementing interactive and dynamic features.
+* **React:** Developing component-based user interfaces for scalable applications.
+* **Tailwind CSS:** Rapid UI development with utility-first CSS.
+* **Bootstrap:** Creating responsive and mobile-first web designs.
+
+## Back-End Skills
+
+* **Node.js:** Server-side JavaScript runtime for building scalable applications.
+* **Express.js:** Framework for developing robust and efficient APIs.
+
+## Database Skills
+
+* **MySQL:** Relational database management for structured data storage.
+* **PostgreSQL:** Advanced open-source relational database system.
+* **MongoDB:** NoSQL database for flexible data storage and retrieval.
+
+## Tools & Technologies
+
+* **Postman:** API testing and development.
+* **Git:** Version control for collaborative development.
+* **GitHub:** Hosting and managing code repositories.
+
+## About Me
+
+I am a passionate web developer with a strong foundation in both front-end and back-end technologies. I am committed to building high-quality, user-friendly web applications. I am always eager to learn and explore new technologies.
+
+## Contact
+
+Feel free to connect with me! [Your LinkedIn Profile Link] | [Your GitHub Profile Link]fact: ...
 -->
